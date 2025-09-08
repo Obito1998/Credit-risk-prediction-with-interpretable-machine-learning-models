@@ -1,4 +1,4 @@
-# redit-risk-prediction-with-interpretable-machine-learning-models-for-accuracy-and-transparency.
+# Credit-risk-prediction-with-interpretable-machine-learning-models-for-accuracy-and-transparency.
 This project explores credit risk assessment using interpretable machine learning models. It compares simple models like logistic regression and SVM with more complex methods, while using explainability tools (like LIME) to balance accuracy with transparency.
 
 📊 Evaluating Credit Risk Using Interpretable Machine Learning Models
